@@ -72,6 +72,5 @@ def break_dance
     end 
     sleep (0.5)
     # break
-   
   end
 end
