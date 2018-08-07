@@ -53,7 +53,7 @@ def how_many_steps?
       steps += 1
       puts steps
     sleep (0.5)
-    break
+    # break
   end
 end
 
